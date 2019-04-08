@@ -1,4 +1,3 @@
-# Thales de Castro Soares 86958
 #   Equalizacao de histograma
 import cv2
 import numpy as np

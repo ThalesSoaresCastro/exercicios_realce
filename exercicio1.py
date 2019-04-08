@@ -1,4 +1,3 @@
-#   Thales de Castro Soares 86958
 import cv2
 import numpy as np
 import math as m
